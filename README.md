@@ -1,7 +1,8 @@
 # 🤖 Chatbot using Groq LLM + LangChain
 
 This project is a **chatbot prototype** built using **LangChain** and powered by the **Groq LLM**. It runs entirely inside a **Google Colab notebook**, making it easy to test and iterate quickly without setting up a separate app or frontend.
-
+This is NOT a conversational chatbot (no memory used).
+For a full conversational bot, memory and higher-level chains like ConversationalRetrievalChain can be added later.
 ---
 
 ## 📒 Project Overview
